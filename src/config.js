@@ -1,27 +1,31 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: '1148579949@qq.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/LeKZzzz',
+    },
+    {
+      name: 'Bilibili',
+      url: 'https://space.bilibili.com/205034360'
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/bchiang7',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/bchiang7',
+    // },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/bchiang7',
+    // },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
   ],
 
   navLinks: [
@@ -41,6 +45,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    {
+      name: 'Blog',
+      url: 'http://www.blog.lekshome.top'
+    }
   ],
 
   colors: {

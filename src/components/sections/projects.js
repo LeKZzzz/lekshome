@@ -41,6 +41,10 @@ const StyledProjectsSection = styled.section`
     ${({ theme }) => theme.mixins.button};
     margin: 80px auto 0;
   }
+.email-link {
+    ${({ theme }) => theme.mixins.bigButton};
+    margin-top: 50px;
+  }
 `;
 
 const StyledProject = styled.li`
@@ -267,11 +271,10 @@ const Projects = () => {
     <StyledProjectsSection>
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
-      </Link>
-
-      <ul className="projects-grid">
+      <a className="inline-link archive-link" href="/archive" target='_blank'>
+        view the archive (Maybe not the latest version)
+      </a>
+      {/* <ul className="projects-grid">
         {prefersReducedMotion ? (
           <>
             {projectsToShow &&
@@ -304,7 +307,10 @@ const Projects = () => {
 
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
-      </button>
+      </button> */}
+      <a className="email-link" href='http://www.blog.lekshome.top/archives/'>
+        view the archive at my blog site (recommend)
+      </a>
     </StyledProjectsSection>
   );
 };
