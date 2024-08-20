@@ -195,7 +195,7 @@ const Footer = () => {
       <StyledSecond tabindex="-1">
         <a>
           <div>
-            Last update on 2024/08/15 |
+            Last update on 2024/08/18 |
           </div>
         </a>
         <a>

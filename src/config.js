@@ -11,21 +11,13 @@ module.exports = {
       url: 'https://space.bilibili.com/205034360'
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'CSDN',
+      url: 'https://blog.csdn.net/LeKZzz'
     },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/bchiang7',
-    // },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/bchiang7',
-    // },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
+    {
+      name: 'Gitee',
+      url: 'https://gitee.com/lekzzz'
+    },
   ],
 
   navLinks: [

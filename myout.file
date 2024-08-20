@@ -1,0 +1,344 @@
+warn "tracedSVG" plugin option for "gatsby-remark-images" is no longer
+supported. Blurred placeholder will be used. See
+https://gatsby.dev/tracesvg-removal/
+
+[2K[1A[2K[Gsuccess open and validate gatsby-configs, load plugins - 1.727s
+
+[2K[1A[2K[Gsuccess onPreInit - 0.005s
+
+[2K[1A[2K[Gsuccess initialize cache - 0.041s
+
+[2K[1A[2K[Gsuccess copy gatsby files - 0.144s
+
+[2K[1A[2K[Gsuccess Compiling Gatsby Functions - 0.271s
+
+[2K[1A[2K[Gsuccess onPreBootstrap - 0.293s
+
+[2K[1A[2K[Gsuccess createSchemaCustomization - 0.041s
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess source and transform nodes - 0.622s
+
+[2K[1A[2K[Gsuccess building schema - 1.389s
+
+[2K[1A[2K[Gsuccess createPages - 0.082s
+
+[2K[1A[2K[Gsuccess createPagesStatefully - 0.157s
+
+[2K[1A[2K[Ginfo Total nodes: 211, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.162s
+
+[2K[1A[2K[Gsuccess write out redirect data - 0.014s
+
+[2K[1A[2K[Gwarn The icon(src/images/logo.png) you provided to 'gatsby-plugin-manifest' is
+not square.
+The icons we generate will be square and for the best results we recommend you
+provide a square icon.
+
+
+[2K[1A[2K[Gsuccess Build manifest and related icons - 0.117s
+
+[2K[1A[2K[Gsuccess onPostBootstrap - 0.121s
+
+[2K[1A[2K[Ginfo bootstrap finished - 7.379s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 2.176s
+
+[2K[1A[2K[Gsuccess write out requires - 0.005s
+
+[2K[1A[2K[Gsuccess run static queries - 0.007s - 1/1 139.77/s
+
+[2K[1A[2K[Gsuccess run page queries - 0.006s - 1/1 168.67/s
+
+[2K[1A[2K[Gsuccess Caching HTML renderer compilation - 0.104s
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[GYou can now view v4 in the browser.
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[G  Local:            http://localhost:8001/
+
+[2K[1A[2K[G  On Your Network:  http://10.0.20.14:8001/
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[GView GraphiQL, an in-browser IDE, to explore your site's data and schema
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[G  Local:            http://localhost:8001/___graphql
+
+[2K[1A[2K[G  On Your Network:  http://10.0.20.14:8001/___graphql
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[GNote that the development build is not optimized.
+
+[2K[1A[2K[GTo create a production build, use gatsby build
+
+[2K[1A[2K[G⠀
+
+[2K[1A[2K[Gsuccess Building development bundle - 3.788s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.117s - 1/16
+137.31/s
+
+[2K[1A[2K[Ginfo deleted file at
+/home/website/lekshome/content/featured/P6Engine/course-card.png
+
+[2K[1A[2K[Gsuccess building schema - 0.620s
+
+[2K[1A[2K[Gsuccess createPages - 0.034s
+
+[2K[1A[2K[Ginfo Total nodes: 210, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.123s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.425s
+
+[2K[1A[2K[Gsuccess write out requires - 0.002s
+
+[2K[1A[2K[G
+ ERROR
+
+(node:862742) MaxListenersExceededWarning: Possible EventEmitter memory leak
+detected. 11 end listeners added to [PassThrough]. Use emitter.setMaxListeners()
+ to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+[2K[1A[2K[G
+ ERROR
+
+(node:862742) MaxListenersExceededWarning: Possible EventEmitter memory leak
+detected. 11 end listeners added to [PassThrough]. Use emitter.setMaxListeners()
+ to increase limit
+
+
+[2K[1A[2K[Gsuccess run static queries - 0.102s - 1/1 9.80/s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.006s - 0/15
+2416.61/s
+
+[2K[1A[2K[Ginfo added file at /home/website/lekshome/content/featured/P6Engine/5644846.png
+
+[2K[1A[2K[Ginfo changed file at
+/home/website/lekshome/content/featured/P6Engine/5644846.png
+
+[2K[1A[2K[Gsuccess building schema - 0.421s
+
+[2K[1A[2K[Gsuccess createPages - 0.028s
+
+[2K[1A[2K[Ginfo Total nodes: 212, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.000s
+
+[2K[1A[2K[Gsuccess update schema - 0.081s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.114s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gsuccess run static queries - 0.015s - 1/1 66.88/s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.019s - 0/15
+805.48/s
+
+[2K[1A[2K[Ginfo added file at /home/website/lekshome/content/featured/P6Engine/p6engine.png
+
+[2K[1A[2K[Ginfo deleted file at
+/home/website/lekshome/content/featured/P6Engine/5644846.png
+
+[2K[1A[2K[Gsuccess building schema - 0.373s
+
+[2K[1A[2K[Gsuccess createPages - 0.029s
+
+[2K[1A[2K[Ginfo Total nodes: 212, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.081s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.144s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gsuccess run static queries - 0.025s - 1/1 40.19/s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.041s - 0/15
+365.94/s
+
+[2K[1A[2K[Ginfo changed file at /home/website/lekshome/content/featured/P6Engine/index.md
+
+[2K[1A[2K[Gsuccess building schema - 0.369s
+
+[2K[1A[2K[Gsuccess createPages - 0.030s
+
+[2K[1A[2K[Ginfo Total nodes: 212, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.080s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.000s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.111s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[G
+ ERROR
+
+(node:862742) MaxListenersExceededWarning: Possible EventEmitter memory leak
+detected. 11 end listeners added to [PassThrough]. Use emitter.setMaxListeners()
+ to increase limit
+
+
+[2K[1A[2K[Gsuccess run static queries - 0.069s - 3/3 43.53/s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.006s - 0/15
+2555.36/s
+
+[2K[1A[2K[Ginfo deleted file at /home/website/lekshome/content/featured/Lat/demo.png
+
+[2K[1A[2K[Gsuccess building schema - 0.453s
+
+[2K[1A[2K[Gsuccess createPages - 0.025s
+
+[2K[1A[2K[Ginfo Total nodes: 210, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.085s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.000s
+
+[2K[1A[2K[G
+ ERROR #85922  GRAPHQL
+
+There was an error in your GraphQL query:
+
+      Field "cover" must not have a selection since type "String" has no
+subfields.
+
+      This can happen if you e.g. accidentally added { } to the field "cover".
+If you didn't expect "cover" to be of type "String" make sure that your input
+source and/or plugin is correct.
+      However, if you expect "value" to exist, the field might be accessible in
+another subfield. Please try your query in GraphiQL and use the GraphiQL
+explorer to see which fields you can query and what shape they have.
+
+      It is recommended to explicitly type your GraphQL schema if you want to
+use optional fields. This way you don't have to add the mentioned
+      "dummy content". Visit our docs to learn how you can define the schema for
+ "undefined":
+      https://www.gatsbyjs.com/docs/reference/graphql-data-layer/schema-customiz
+ation#creating-type-definitions
+
+File: src/components/sections/featured.js:317:21
+
+
+[2K[1A[2K[Gfailed extract queries from components - 0.393s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.006s - 0/15
+2675.14/s
+
+[2K[1A[2K[Ginfo added file at /home/website/lekshome/content/featured/Lat/lat.png
+
+[2K[1A[2K[Ginfo changed file at /home/website/lekshome/content/featured/Lat/lat.png
+
+[2K[1A[2K[Ginfo changed file at /home/website/lekshome/content/featured/Lat/lat.png
+
+[2K[1A[2K[Gsuccess building schema - 0.368s
+
+[2K[1A[2K[Gsuccess createPages - 0.030s
+
+[2K[1A[2K[Ginfo Total nodes: 212, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.000s
+
+[2K[1A[2K[Gsuccess update schema - 0.093s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.000s
+
+[2K[1A[2K[G
+ ERROR #85922  GRAPHQL
+
+There was an error in your GraphQL query:
+
+      Field "cover" must not have a selection since type "String" has no
+subfields.
+
+      This can happen if you e.g. accidentally added { } to the field "cover".
+If you didn't expect "cover" to be of type "String" make sure that your input
+source and/or plugin is correct.
+      However, if you expect "value" to exist, the field might be accessible in
+another subfield. Please try your query in GraphiQL and use the GraphiQL
+explorer to see which fields you can query and what shape they have.
+
+      It is recommended to explicitly type your GraphQL schema if you want to
+use optional fields. This way you don't have to add the mentioned
+      "dummy content". Visit our docs to learn how you can define the schema for
+ "undefined":
+      https://www.gatsbyjs.com/docs/reference/graphql-data-layer/schema-customiz
+ation#creating-type-definitions
+
+File: src/components/sections/featured.js:317:21
+
+
+[2K[1A[2K[Gfailed extract queries from components - 0.112s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.006s - 0/15
+2583.20/s
+
+[2K[1A[2K[Ginfo changed file at /home/website/lekshome/content/featured/Lat/index.md
+
+[2K[1A[2K[Gsuccess building schema - 0.353s
+
+[2K[1A[2K[Gsuccess createPages - 0.025s
+
+[2K[1A[2K[Ginfo Total nodes: 212, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.001s
+
+[2K[1A[2K[Gsuccess update schema - 0.068s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.000s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.104s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[G
+ ERROR
+
+(node:862742) MaxListenersExceededWarning: Possible EventEmitter memory leak
+detected. 11 end listeners added to [PassThrough]. Use emitter.setMaxListeners()
+ to increase limit
+
+
+[2K[1A[2K[Gsuccess run static queries - 0.068s - 3/3 44.31/s
+
+[2K[1A[2K[Gsuccess Writing page-data.json files to public directory - 0.005s - 0/15
+2933.65/s
+

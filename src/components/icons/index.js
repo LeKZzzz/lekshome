@@ -15,3 +15,5 @@ export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconBilibili } from './bilibili';
+export { default as IconCSDN } from './csdn';
+export { default as IconGitee } from './gitee';

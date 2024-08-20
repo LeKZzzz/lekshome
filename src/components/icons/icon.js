@@ -15,7 +15,9 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
-  IconBilibili
+  IconBilibili,
+  IconCSDN,
+  IconGitee
 } from '@components/icons';
 
 const Icon = ({ name }) => {
@@ -50,6 +52,10 @@ const Icon = ({ name }) => {
       return <IconTwitter />;
     case 'Bilibili':
       return <IconBilibili />;
+    case 'CSDN':
+      return <IconCSDN />;
+    case 'Gitee':
+      return <IconGitee />;
     default:
       return <IconExternal />;
   }

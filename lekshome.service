@@ -1,0 +1,18 @@
+[Unit]
+Description=lekshome website service
+After=network.target
+
+
+[Service]
+User=lek
+EnvironmentFile=/home/lek/.bashrc
+Type=simple
+WorkingDirectory=/home/website/lekshome
+ExecStart=/home/lek/.nvm/versions/node/v20.9.0/bin/gatsby develop -H 0.0.0.0 -p 8001
+ExecStop=/bin/kill $MAINPID
+ExecReload=/home/lek/.nvm/versions/node/v20.9.0/bin/gatsby develop -H 0.0.0.0 -p 8001
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

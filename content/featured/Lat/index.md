@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Lat'
-cover: './demo.png'
+cover: './lat.png'
 github: 'https://github.com/LeKZzzz/Lat'
 external: 'https://github.com/LeKZzzz/Lat'
 tech:

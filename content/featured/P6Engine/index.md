@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'P6Engine'
-cover: './course-card.png'
+cover: './p6engine.png'
 external: 'https://github.com/LeKZzzz/P6Engine'
 cta: 'https://github.com/LeKZzzz/P6Engine'
 tech:
