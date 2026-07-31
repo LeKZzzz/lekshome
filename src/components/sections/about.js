@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C/C++', 'Java', 'Python', 'HTML', 'CSS', 'JavaScript'];
+  const skills = [
+    'Java',
+    'Spring Boot',
+    'Python',
+    'C/C++',
+    'MySQL',
+    'Redis',
+    'Docker',
+    'Linux',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +144,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is LeK and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2003 when I was born, just kidding haha:)
+              Hello! My name is LeK. I enjoy building robust backend systems and making development
+              teams more productive with AI. My interest in programming took off at Jinan University,
+              where I studied Computer Science and earned national awards in software testing and
+              design competitions.
             </p>
 
             <p>
-              Fast-forward to today, I am a junior at Jinan University, I have interned at China Southern Airlines, and I am currently looking for opportunities.
+              Fast-forward to today: I'm an AI application engineer and backend developer at China
+              Southern Airlines' Digital Intelligence Technology subsidiary. I develop the backend of
+              a mobile attendance platform serving 150,000 employees, and I lead initiatives to bring
+              AI-assisted practices — from specification-driven development to automated test
+              generation — to engineering teams across the company.
             </p>
 
-            {/* <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p> */}
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I work with on a daily basis:</p>
           </div>
 
           <ul className="skills-list">

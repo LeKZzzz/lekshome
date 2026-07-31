@@ -7,6 +7,7 @@ range: 'July - August 2024'
 url: 'https://www.csairgroup.cn'
 ---
 
-- Worked in the Service Control Team of the Product Operation Department (Ecosystem) of the Information Center of China Southern Airlines
-- Independently completed the full process from requirement planning, requirement review, function design, code implementation, and code review, gaining an understanding of the enterprise's business development process and meeting the requirements of development positions.
-- Developed a user survey parser, using SpringBoot + MyBatis to complete functional design, storage format design, table design, technology selection, and code implementation. Implemented two versions of the solution: the first as a standalone implementation and the second integrated into the existing system by introducing OGNL to parse JSON in the existing system.
+- Worked in the Service Control Team of the Product Operation Department at the Information Center of China Southern Airlines
+- Completed the full development lifecycle independently — requirement planning, review, design, implementation, and acceptance — gaining hands-on experience with enterprise development standards
+- Developed a user survey parser using Spring Boot + MyBatis, including storage format design, database schema design, and technology selection
+- Implemented two solution versions: a standalone implementation and an integration into the existing system using OGNL to parse JSON dynamically

@@ -61,12 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">LeK.</h2>;
-  const three = <h3 className="big-heading">I change reality with code.</h3>;
+  const three = <h3 className="big-heading">I change the world with code.</h3>;
   const four = (
     <>
       <p>
-        I’m a full stack engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m a junior at Jinan University and looking for opportunities.
+        I'm an AI application engineer and backend developer at China Southern Airlines, where I
+        build enterprise-scale attendance systems serving 150,000 employees and pioneer AI-driven
+        development workflows across the organization. I hold a Bachelor's degree in Computer Science
+        from Jinan University.
       </p>
     </>
   );
@@ -76,7 +78,7 @@ const Hero = () => {
       href="http://www.blog.lekshome.top/"
       target="_blank"
       rel="noreferrer">
-      Check out my blogs!
+      Check out my blog!
     </a>
   );
 

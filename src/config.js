@@ -1,5 +1,5 @@
 module.exports = {
-  email: '1148579949@qq.com',
+  email: 'me@lekshome.top',
 
   socialMedia: [
     {
@@ -30,17 +30,9 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
-      url: '/#projects',
-    },
-    {
       name: 'Contact',
       url: '/#contact',
     },
-    {
-      name: 'Blog',
-      url: 'http://www.blog.lekshome.top'
-    }
   ],
 
   colors: {
